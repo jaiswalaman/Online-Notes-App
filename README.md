@@ -1,2 +1,2 @@
 # Online-Notes-App
-PHP Based app for Making Online Notes. 
+PHP Based Web app for Making Online Notes. 
